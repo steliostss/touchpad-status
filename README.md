@@ -31,6 +31,10 @@ To disable the TouchPad run:
 touchpad.py -d
 ```
 
+## Package
+
+[Homepage](https://pypi.org/project/touchpad.py/1.0/)
+
 
 ## Author
 - Stelios Tsagkarakis
